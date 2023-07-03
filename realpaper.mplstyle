@@ -1,0 +1,17 @@
+figure.figsize: 19.2, 10.8
+text.color: FFFFFF
+axes.facecolor: 292929
+axes.edgecolor: FFFFFF
+axes.labelcolor: FFFFFF
+axes.labelsize: 16
+axes.xmargin: 0
+axes.ymargin: 0.05
+axes.prop_cycle: cycler('color', ['8282F3', 'EF4B56', '23C766'])
+xtick.color: FFFFFF
+ytick.color: FFFFFF
+grid.color: FFFFFF
+grid.linewidth: 0.1
+legend.loc: upper right
+legend.framealpha: 1
+savefig.facecolor: 292929
+savefig.edgecolor: 292929
